@@ -16,4 +16,8 @@ Registration page
 User's dashboard
 ![user dashboard](https://user-images.githubusercontent.com/45101690/68543861-b9a03d00-03e2-11ea-9df7-cabbe89753a5.png)
 
+Select question according to the company
+![company select](https://user-images.githubusercontent.com/45101690/68543876-e81e1800-03e2-11ea-983d-75390ced4800.png)
+
+
 
