@@ -21,3 +21,6 @@ Select question according to the company
 
 Admin's dashboard
 ![admin dashboard](https://user-images.githubusercontent.com/45101690/68543879-eeac8f80-03e2-11ea-8a38-ba53647fdbd9.png)
+
+Select according to company and topic
+![company and topic select](https://user-images.githubusercontent.com/45101690/68543950-d5f0a980-03e3-11ea-8187-ba05e3d93ae0.png)
