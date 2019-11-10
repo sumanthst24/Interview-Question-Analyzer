@@ -9,3 +9,7 @@ This Interview Question Analyser can be accessed by all the users registered and
 
 Login page
 ![Login](https://user-images.githubusercontent.com/45101690/68543803-f0c21e80-03e1-11ea-8726-6bb96969e352.png)
+
+Registration page
+![reg](https://user-images.githubusercontent.com/45101690/68543854-81006380-03e2-11ea-96f2-038a847882c4.png)
+
