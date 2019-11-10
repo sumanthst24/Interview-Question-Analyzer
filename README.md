@@ -19,8 +19,11 @@ User's dashboard
 Select question according to the company
 ![company select](https://user-images.githubusercontent.com/45101690/68543876-e81e1800-03e2-11ea-983d-75390ced4800.png)
 
-Admin's dashboard
-![admin dashboard](https://user-images.githubusercontent.com/45101690/68543879-eeac8f80-03e2-11ea-8a38-ba53647fdbd9.png)
+Select according to topic
+![topic select](https://user-images.githubusercontent.com/45101690/68543970-0cc6bf80-03e4-11ea-9ac5-0b5e7305b05d.png)
 
 Select according to company and topic
 ![company and topic select](https://user-images.githubusercontent.com/45101690/68543950-d5f0a980-03e3-11ea-8187-ba05e3d93ae0.png)
+
+Admin's dashboard
+![admin dashboard](https://user-images.githubusercontent.com/45101690/68543879-eeac8f80-03e2-11ea-8a38-ba53647fdbd9.png)
