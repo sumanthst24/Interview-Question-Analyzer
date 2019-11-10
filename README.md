@@ -13,3 +13,7 @@ Login page
 Registration page
 ![reg](https://user-images.githubusercontent.com/45101690/68543854-81006380-03e2-11ea-96f2-038a847882c4.png)
 
+User's dashboard
+![user dashboard](https://user-images.githubusercontent.com/45101690/68543861-b9a03d00-03e2-11ea-9df7-cabbe89753a5.png)
+
+
