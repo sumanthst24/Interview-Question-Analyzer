@@ -1,4 +1,4 @@
-# Interview-Question-Analyzer
+# Interview Question Analyzer
 - This interview question analyser provides a service to the users to get familiar with the type of questions and the frequency of the question with respect to the company.</br>
 - This system’s access is granted only to the Administrator and provides the users a very friendly user interface.</br>
 - Administrator’s functionalities are to include the question and company details, accepting the requests of the user, updating the database with the questions and topics.</br>
